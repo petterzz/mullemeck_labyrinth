@@ -1,0 +1,10 @@
+F = m * a
+a = F / m
+
+dv = a / dt
+
+dv/dt = F / m
+
+F = 
+
+s = v * t
